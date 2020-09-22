@@ -3,7 +3,7 @@ using System.Globalization;
 using System.Collections.Generic;
 using Course.Entities;
 
-namespace Polimorfismo
+namespace Course
 {
     class Program
     {
